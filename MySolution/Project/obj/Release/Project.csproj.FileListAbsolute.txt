@@ -1,0 +1,17 @@
+C:\Users\Paloma\source\repos\MySolution\Project\bin\Release\robocode.dll
+C:\Users\Paloma\source\repos\MySolution\Project\bin\Release\robocode.xml
+C:\Users\Paloma\source\repos\MySolution\Project\obj\Release\Project.csprojAssemblyReference.cache
+C:\Users\Paloma\source\repos\MySolution\Project\obj\Release\Project.csproj.CoreCompileInputs.cache
+C:\Users\Paloma\source\repos\MySolution\Project\obj\Release\Project.csproj.CopyComplete
+C:\Users\Paloma\source\repos\MySolution\Project\bin\Release\PSA.MyRobot_1.dll
+C:\Users\Paloma\source\repos\MySolution\Project\bin\Release\PSA.MyRobot_1.pdb
+C:\Users\Paloma\source\repos\MySolution\Project\obj\Release\PSA.MyRobot_1.dll
+C:\Users\Paloma\source\repos\MySolution\Project\obj\Release\PSA.MyRobot_1.pdb
+C:\Users\Paloma\source\repos\Robocode\psa_robocode\MySolution\Project\bin\Release\robocode.xml
+C:\Users\Paloma\source\repos\Robocode\psa_robocode\MySolution\Project\obj\Release\Project.csprojAssemblyReference.cache
+C:\Users\Paloma\source\repos\Robocode\psa_robocode\MySolution\Project\obj\Release\Project.csproj.CoreCompileInputs.cache
+C:\Users\Paloma\source\repos\Robocode\psa_robocode\MySolution\Project\obj\Release\Project.csproj.CopyComplete
+C:\Users\Paloma\source\repos\Robocode\psa_robocode\MySolution\Project\bin\Release\PSA.Robozim_1.dll
+C:\Users\Paloma\source\repos\Robocode\psa_robocode\MySolution\Project\bin\Release\PSA.Robozim_1.pdb
+C:\Users\Paloma\source\repos\Robocode\psa_robocode\MySolution\Project\obj\Release\PSA.Robozim_1.dll
+C:\Users\Paloma\source\repos\Robocode\psa_robocode\MySolution\Project\obj\Release\PSA.Robozim_1.pdb
